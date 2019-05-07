@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fmtx{
+  width: 1920px;
+  height: 1080px;
+  color:#fff;
+}
+.xhz{
+  width:1604px;
+  height: 774px;
+ background-color:#e6e6e6;
+  margin-top:-880px;
+  margin-left: 164px;
+}
+ .fmtx img{
+    margin-left: 1112px;
+    margin-top: 275px;
+    position: relative;
+}
+.wenzi{
+  width: 800px;
+  height: 20px;
+  background-color: #e6e6e6;
+  position: absolute;
+  margin-top: -730px;
+  margin-left: 608px;
+}
+.wenzi a{
+  text-decoration: none;
+  color: #000;
+  list-style: none;
+  float: left;
+  margin-right:  158px;
+  font-size:18px;
+}
+.wenzi ul li{
+  list-style: none;
+}
+.wenzi a:hover{
+ color:red;
+}
+.xingm{
+  width:800px;
+  height: 100px;
+  background-color:#e6e6e6;
+  position: absolute;
+  margin-top: -435px;
+  margin-left: 356px;
+}
+.xingm ul li{
+  list-style: none;
+}
+.xingm  a{
+text-decoration:none;
+  float: left;
+  margin-right: 158px;
+  font-size: 80px;
+  color:#000;
+}
+.xingm a:hover{
+  color:red;
+}
+.yyu{
+  width: 1548px;
+  height: 25px;
+  background-color: #e6e6e6;
+  position: absolute;
+  margin-top: -65px;
+  margin-left: 219px;
+}
+.yyu ul li{
+  list-style: none;
+  float: left;
+  margin-right: 410px;
+}

@@ -1,0 +1,180 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.quan{
+  width:1919px;
+  height:1080px;
+  position: absolute;
+  left:50%;
+  margin-left:-959px;
+  background:#fff;}
+.information{
+  width:434px;
+  height:1080px;
+  background:#7cb8f6;
+  display:inline-block;
+  float:left;
+}
+.diary{
+  width:660px;
+  height:1080px;
+  background: #fff;
+  display: inline-block;
+  float: left;
+}
+.diary .rq{
+  font-size: 25px;
+  margin-left:51px;
+  margin-top:35px;}
+.diary .xrq{
+  font-size:25px;
+  margin-left:51px;
+  margin-top:10px;}
+.diary .nr{
+  font-size:25px;
+  margin-left:51px;
+  margin-top:10px;}
+
+.diary .gx{
+  width:620px;
+  height:3px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.diary .ey{
+  font-size: 30px;
+  margin-left: 51px;
+  margin-top: 35px;
+}
+.diary .ew{
+  font-size: 25px;
+  margin-left: 51px;
+  margin-top: 10px;
+}
+.diary .er{
+  font-size: 25px;
+  margin-left: 51px;
+  margin-top: 10px;
+}
+.diary .gxx{
+  width:620px;
+  height: 3px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.diary .ad{
+  font-size: 30px;
+  margin-left: 51px;
+  margin-top: 35px;
+}
+.diary .ab{
+  font-size: 25px;
+  margin-left: 51px;
+  margin-top: 10px;
+}
+.diary .ac{
+  font-size: 24px;
+  margin-left: 51px;
+  margin-top: 10px;
+}
+.diary .gxxxxx{
+  width:620px;
+  height:3px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.diary .eu{
+  font-size: 30px;
+  margin-left:51px;
+  margin-top:35px;}
+.diary .ei{
+  font-size:25px;
+  margin-left:51px;
+  margin-top:10px;}
+.diary .eo{
+  font-size:25px;
+  margin-left:51px;
+  margin-top:10px;}
+
+.diary .gxxx{
+  width:620px;
+  height:3px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.diary .ep{
+  font-size: 30px;
+  margin-left: 51px;
+  margin-top: 35px;
+}
+.diary .ea{
+  font-size: 25px;
+  margin-left: 51px;
+  margin-top: 10px;
+}
+.diary .es{
+  font-size: 25px;
+  margin-left: 51px;
+  margin-top: 10px;
+}
+.diary .gxxxx{
+  width:620px;
+  height: 3px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.diary .ba{
+  font-size: 30px;
+  margin-left: 51px;
+  margin-top: 35px;
+}
+.diary .bs{
+  font-size: 25px;
+  margin-left: 51px;
+  margin-top: 10px;
+}
+.diary .bd{
+  font-size: 25px;
+  margin-left: 51px;
+  margin-top: 10px;
+}
+.diary .gxxxxx{
+  width:620px;
+  height: 3px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.picture{
+  width: 825px;
+  display:inline-block;
+  float: left;
+}
+.information img{
+  margin-left:82px;
+  margin-top:58px;
+}
+.information .fgx{
+  width: 434px;
+  height: 6px;
+  margin-left: 0px;
+}
+.imformation .nc{
+font-size: 30px;
+}
+.information .x{
+ width:434px;
+ height:6px;
+ margin-left: 0px;
+}
+.information p{
+  font-size: 55px;
+  padding-top: 69px;
+  padding-left: 106px;
+}
+.information .bsj{
+  font-size: 30px;
+}
+.information .shq{
+  font-size: 30px;
+}
